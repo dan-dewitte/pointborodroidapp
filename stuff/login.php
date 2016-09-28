@@ -1,4 +1,4 @@
-<html>
+<html> 
 	<head>
 		<title>Check Access</title>
 		<link href="style.css" rel="stylesheet" type="text/css">
@@ -14,10 +14,11 @@
 		</script>
 	</head>
 	<body>
+
 	<div id="Border">
 	<center>
 		<br><hr><br>
-		Click a button to do something: <br>
+		Click a button to do something:test <br>
 		<?php
 			if($_SESSION['on']==1234){
 			session_start();
