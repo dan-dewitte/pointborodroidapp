@@ -18,7 +18,7 @@
 	<div id="Border">
 	<center>
 		<br><hr><br>
-		Click a button to do something:test <br>
+		Click a button to do something:test2 <br>
 		<?php
 			if($_SESSION['on']==1234){
 			session_start();
